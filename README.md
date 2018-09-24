@@ -1,3 +1,3 @@
 # PROJETO-TCC
 PROGRAMAÇÃO WEB
-Janaina Benetti-Graduanda em Sistemas de Informação-Faculdade Santissimo Sacramento-Alahoinhas/BA.
+Janaina Benetti-Bacharel em Sistemas de Informação-Faculdade Santissimo Sacramento-Alagoinhas/BA.
